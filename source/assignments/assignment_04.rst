@@ -39,7 +39,7 @@ Include the following in your report:
   a long time to download?
 * Scalability of using Node.js. If we have 1,000 people on our web server,
   will this help or hurt us?
-* What support is out their for Angular JS? If something goes wrong, who will
+* What support is out their for Node.js? If something goes wrong, who will
   we get support from?
 * Popularity: Can we find Node.js programmers? Is it a fad? Is it getting old
   and out of date?
