@@ -47,6 +47,16 @@ Include the following in your report:
 * References (Where did you get your info? Back it your information with
   citations from reputable publications.)
 
+References
+^^^^^^^^^^
+When listing references, don't just list URLs. You can hyper-link the title
+to the URL. Here is an example of what I'm looking for:
+
+* GManNickG. `Why is it faster to process a sorted array than an unsorted array? <http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>`_ Stack Overflow, Jun 27 2012. Retrieved Jan 16, 2017.
+
+Double-Check
+^^^^^^^^^^^^
+
 When you are done, check the following:
 
 * Make sure that you use paragraphs. No one will read long walls of text.

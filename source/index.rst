@@ -15,3 +15,4 @@ Contents:
    assignments/assignment_02.rst
    assignments/assignment_03.rst
    assignments/assignment_04.rst
+   assignments/assignment_05.rst
