@@ -26,6 +26,8 @@ Include the following in your report:
   things often get updated.)
 * Executive summary paragraph - Write this last. Give a quick one-paragraph
   summary of what you came up with.
+* Use heading/subheading styles to make the report easy to skim. You can use
+  built-in styles, but do use headings and subheadings.
 * What is AngularJS?
 * What does AngularJS do?
 * History of AngularJS. Who wrote it, how long has it been around, etc.
@@ -43,6 +45,16 @@ Include the following in your report:
 * Your conclusions on AngularJS.
 * References (Where did you get your info? Back it your information with
   citations from reputable publications.)
+
+References
+^^^^^^^^^^
+When listing references, don't just list URLs. You can hyper-link the title
+to the URL. Here is an example of what I'm looking for:
+
+* GManNickG. `Why is it faster to process a sorted array than an unsorted array? <http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>`_ Stack Overflow, Jun 27 2012. Retrieved Jan 16, 2017.
+
+Double-Check
+^^^^^^^^^^^^
 
 When you are done, check the following:
 

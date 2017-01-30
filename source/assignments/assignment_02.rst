@@ -18,6 +18,13 @@ that shows how to get something useful to our company.
 There are tutorials out there. W3Schools has a nice one. They also have a
 JavaScript tutorial if you haven't learned JavaScript yet, or are a bit rusty.
 
+For this tutorial, you may copy/paste material from the web. **However**
+to not count as plagiarism you must cite where you got information from.
+Include the citation in comments before the code. Like::
+
+    // The following code was adapted from the W3Schools AngularJS example at:
+    // http://www.w3schools.com/angular/angular_expressions.asp
+
 Zip up the files, or link to GitHub_, JSBin_, or Gist_.
 
 .. _AngularJS: https://angularjs.org/
