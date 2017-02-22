@@ -16,3 +16,5 @@ Contents:
    assignments/assignment_03.rst
    assignments/assignment_04.rst
    assignments/assignment_05.rst
+   assignments/assignment_06.rst
+   assignments/assignment_07/assignment_07.rst
