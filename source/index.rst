@@ -18,3 +18,6 @@ Contents:
    assignments/assignment_05.rst
    assignments/assignment_06.rst
    assignments/assignment_07/assignment_07.rst
+   assignments/assignment_08/assignment_08.rst
+   assignments/assignment_09.rst
+
