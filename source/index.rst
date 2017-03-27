@@ -20,4 +20,5 @@ Contents:
    assignments/assignment_07/assignment_07.rst
    assignments/assignment_08/assignment_08.rst
    assignments/assignment_09.rst
+   assignments/assignment_10.rst
 
