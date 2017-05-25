@@ -7,7 +7,7 @@ Goal
 Learn and experiment with a new-to-you cloud service.
 Both this week and next week I'm looking for you to:
 
-* Select a new cloud service you haven't used before.
+* Select a new cloud service **you haven't used before**.
 * Get it up and running.
 * Write about what it is, and how you got it working.
 
