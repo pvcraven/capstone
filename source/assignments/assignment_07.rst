@@ -1,5 +1,5 @@
-Assignment 11 - Cloud Services Part 1
-=====================================
+Assignment 7 - Cloud Services Part 2
+====================================
 
 Goal
 ----

@@ -1,70 +1,50 @@
-Assignment 11 - Cloud Services Part 1
-=====================================
+Assignment 11 - Final Project
+=============================
 
 Goal
 ----
 
-Learn and experiment with a new-to-you cloud service.
-Both this week and next week I'm looking for you to:
-
-* Select a new cloud service you haven't used before.
-* Get it up and running.
-* Write about what it is, and how you got it working.
-
-Some suggestions:
-
-* Create a web server (Use EC2 or Elastic Beanstalk)
-* Create a database (RDS)
-* Set up your own name server (Route 53)
-* Learn how to set up storage, and serve files via the cloud (S3)
-* Monitor services (CloudWatch)
-* Learn how to set up load balancers
+This is your final project for the capstone. This assignment is worth twice
+the points as the other assignments. There is also a rough-draft turn-in
+part way through.
 
 Details
 -------
 
-If you haven't already, sign up for
-[Amazon Web Servives](https://aws.amazon.com/). You can also use
-[Microsoft Azure](https://azure.microsoft.com/en-us/) if you'd rather. I'm
-familiar with AWS, but not Azure. So if you want any help, use AWS.
+For the final project, pick your own subject to research. The research must
+involve learning something new-to-you, and include a component where you
+create some sample code.
 
-Select one of the cloud services to learn more about.
+Some possible things to learn about:
 
-If you've used
-cloud services before, there's probably a service you haven't had a chance
-to explore before.
+* [D3](https://d3js.org/) Graph Library for JavaScript
+* [React](https://facebook.github.io/react/) UI library for JavaScript
+* [Phaser.io](http://phaser.io/) Game library for JavaScript
+* [libgdx](https://libgdx.badlogicgames.com/) Game library for Java
+* [Haskell](https://www.haskell.org/)Programming language
+* [Arduino](https://www.arduino.cc/) Using the Arduino
+* UNIX command line tools, including grep, sed, and awk
+* [Powershell](https://msdn.microsoft.com/en-us/powershell/mt173057.aspx) Microsoft scripting language
 
-If you haven't used cloud services, I'd suggest trying EC2 first. EC2 allows
-you to create your own virtual server. You can work with Linux or Windows.
-RDS is another good choice as it allows you to set up your own database. These
-two are likely the "bread and butter" services.
-
-Elastic Beanstalk helps you set up a web service on EC2, and is another good
-choice.
+This is a pretty open research paper. Please feel free to drop me a note
+to double-check that a subject would be good.
 
 Grading
 -------
 
 * Introduction (30% of the grade)
 
-	* Describe what the service is.
+	* Describe what the topic is.
 	* Describe how it could be used.
 	* Reflect on how you could use it personally.
 
-* Demonstration (40% of the grade)
+* Demonstration (60% of the grade)
 
 	* Show what you were able to create. Screen shots are encouraged. (Use the
 	  Windows "Snipping Tool", Snag-It, or similar.)
+    * Show actual code that you've written.
 
-* Tutorial (30% of the grade)
+* Conclusion (10% of the grade)
 
-	* Talk about the basics of getting the service up and running.
+	* Where do you see this technology going? Is it useful?
 
-Cost of Services
-----------------
-
-While these services require a credit card, if you are careful you can select
-"free tier" services and not have to pay for it.
-
-It is *very important* to shut down the services after you are done using
-them. You don't want any surprise charges.

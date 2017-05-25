@@ -1,36 +1,37 @@
-Assignment 5 - Node.js Proof-of-Concept
-=======================================
+Assignment 5 - Database Diagramming
+===================================
 
 Goal
 ----
 
-See if you can download, install, and follow tutorials on how to get a new
-technology working at a proof-of-concept level.
-
+Demonstrate your proficiency in diagramming a relational schema for a database.
 
 Details
 -------
 
-Create a proof-of-concept on how to use NodeJS_. Theme it using our Fine
-Iowa Car Loans company. Show how to get something useful working for our
-car loan company.
+In this assignment, you will create an relational schema diagram for a database
+that will store academic information for a college.
 
-There are tutorials out there you can find. `TutorialsPoint Node.js`_ tutorial is
-good.
+* Have a common table to track people
+* Track which people are students
+* Track which people are instructors
+* Track which people are alumni
+* Track classes (Like CMSC 150, not ties to a particular time)
+* Track class sections (A particular section of a class, like CMSC 150 A for Fall 2018)
+* Track class section registrations
+* Track who is in what section, with what room, and who teaches
+* Track grades
+* Track rooms (what classes are taught in what rooms)
+* Track semesters (just fall and spring)
 
-For this tutorial, you may copy/paste material from the web. **However**
-to not count as plagiarism you must cite where you got information from.
-Include the citation in comments before the code. Like::
+Make sure you identify:
 
-    // The following code was adapted from the TutorialsPoint example at:
-    // https://www.tutorialspoint.com/nodejs/
+* Tables
+* Fields in the table
+* Data types
+* Primary keys
+* Foreign keys
+* Relationships (One-to-one, zero-too-many-to-one, etc.)
 
-Zip up the files and upload, or link to the proof of concept on GitHub_.
-
-Next week you will create your own tutorial stepping through how to create
-a Node.js application.
-
-.. _NodeJS: https://nodejs.org/en/
-.. _Gist: https://gist.github.com/
-.. _GitHub: https://github.com/
-.. _TutorialsPoint Node.js: https://www.tutorialspoint.com/nodejs/
+Turn in the diagram. If you are drawing by hand, upload a photo of the
+drawing. Make sure it is neat enough I can read it.

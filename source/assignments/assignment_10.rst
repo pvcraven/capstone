@@ -1,44 +1,51 @@
-Assignment 10 - Database Diagramming 2
-======================================
+Assignment 10 - Final Project Draft
+===================================
 
 Goal
 ----
 
-Demonstrate your proficiency in diagramming a relational schema for a database.
+This is your final project for the capstone. This assignment is worth twice
+the points as the other assignments.
+
+This assignment 10 is an ungraded draft of your final project.
 
 Details
 -------
 
-In this assignment, you will create an relational schema diagram for a database
-that will store grading information for classes.
+For the final project, pick your own subject to research. The research must
+involve learning something new-to-you, and include a component where you
+create some sample code.
 
-* Have a common table to track people
-* Track which classes there are (e.g. CMSC 150)
-* Track semesters there are (Summer, Fall, Spring)
-* Track academic years (for example 14-15 would containg 14/SU, 14/FA and 15/SP)
-* Track which class sections there are (For example 15/SP CMSC 150 Section A)
-* Track enrollments
+Some possible things to learn about:
 
-	* Track which people are students
-	* Track which people are instructors
+* [D3](https://d3js.org/) Graph Library for JavaScript
+* [React](https://facebook.github.io/react/) UI library for JavaScript
+* [Phaser.io](http://phaser.io/) Game library for JavaScript
+* [libgdx](https://libgdx.badlogicgames.com/) Game library for Java
+* [Haskell](https://www.haskell.org/)Programming language
+* [Arduino](https://www.arduino.cc/) Using the Arduino
+* UNIX command line tools, including grep, sed, and awk
+* [Powershell](https://msdn.microsoft.com/en-us/powershell/mt173057.aspx) Microsoft scripting language
 
-* Allow students to re-take a class and still keep separate the scores.
-* Track assignments
-* Track assignment submissions by students
+This is a pretty open research paper. Please feel free to drop me a note
+to double-check that a subject would be good.
 
-  * Keep an assignment submission history. So if a student submits on Friday,
-    then resubmits the assignment on Monday, you can track that history.
+Grading
+-------
 
-* Track grades on assignments
+* Introduction (30% of the grade)
 
-Make sure you identify:
+	* Describe what the topic is.
+	* Describe how it could be used.
+	* Reflect on how you could use it personally.
 
-* Tables
-* Fields in the table
-* Data types
-* Primary keys
-* Foreign keys
-* Relationships (One-to-one, zero-too-many-to-one, etc.)
+* Demonstration (60% of the grade)
 
-Turn in the diagram. If you are drawing by hand, upload a photo of the
-drawing. Make sure it is neat enough I can read it.
+	* Show what you were able to create. Screen shots are encouraged. (Use the
+	  Windows "Snipping Tool", Snag-It, or similar.)
+    * Show actual code that you've written.
+
+* Conclusion (10% of the grade)
+
+	* Where do you see this technology going? Is it useful?
+

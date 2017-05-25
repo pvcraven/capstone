@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Capstone'
-copyright = '2016, Paul Vincent Craven'
+copyright = '2017, Paul Vincent Craven'
 author = 'Paul Vincent Craven'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -57,7 +57,7 @@ author = 'Paul Vincent Craven'
 # built documents.
 #
 # The short X.Y version.
-version = 'Spring 2017'
+version = 'Summer 2017'
 # The full version, including alpha/beta/rc tags.
 release = ''
 
