@@ -48,8 +48,3 @@ Grading
 
 	* Where do you see this technology going? Is it useful?
 
-* Rough draft is due Monday April 17 at 8 am.
-* Final copy is due Thursday April 22nd at 5 pm.
-
-The draft is not graded, but the
-feedback will help you get a good grade for your final copy.
