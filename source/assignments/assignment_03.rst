@@ -13,7 +13,8 @@ Details
 
 Create a proof-of-concept on how to use NodeJS_. Theme it using our Fine
 Iowa Car Loans company. Show how to get something useful working for our
-car loan company.
+car loan company. Like a simple website for ICL, or a calculator for
+loan payments, or something similar.
 
 There are tutorials out there you can find. `TutorialsPoint Node.js`_ tutorial is
 good.
