@@ -6,9 +6,9 @@ Assignment
 
 For each program below:
 
-* Explain what the program does
-* Explain the results of the program
-* Try to explain why the results are what they are. If you don't know for
+* Tell me what the program does. Show what it prints.
+* Explain the results of the program. What is it doing and printing?
+* Try to explain WHY the results are what they are. If you don't know for
   certain, create a hypothesis.
 * This has a lot to do with data structures. Make sure your explanation does
   dive into the particulars of the data structures and what is happening. Don't
