@@ -1,38 +1,71 @@
-Assignment 2 - AngularJS Proof-of-Concept
-=========================================
+Assignment 2 - Node.js Report to Management
+=============================================
 
 Goal
 ----
 
-See if you can download, install, and follow tutorials on how to get a new
-technology working at a proof-of-concept level.
+Ok, time to take what you learned from the last three assignments and practice
+it with one more technology.
 
+This assignment is designed to test your ability to go out and do research
+new technologies. By itself, this isn't useful unless you can communicate
+those findings to management. With Assignment 1 you need to do both.
 
 Details
 -------
 
-Create a proof-of-concept on how to use AngularJS_. Theme it using our Fine
-Iowa Car Loans company. Show how to get something useful working for our
-car loan company.
+Your bosses at Fine Iowa Car Loans (FICL)
+have heard a lot about this new "node.js". But your
+company doesn't yet have anything to do with it. Should they?
+It is your job to find out.
 
-There are tutorials out there you can find. W3Schools has a nice one.
-They also have a JavaScript tutorial if you haven't learned JavaScript yet,
-or are a bit rusty.
+Write a report to your technology managers on Node.js. The report should
+provide a factual, balanced view of the technology.
 
-For this tutorial, you may copy/paste material from the web. **However**
-to not count as plagiarism you must cite where you got information from.
-Include the citation in comments before the code. Like::
+Include the following in your report:
 
-    // The following code was adapted from the W3Schools AngularJS example at:
-    // http://www.w3schools.com/angular/angular_expressions.asp
+* Report title, date, version, author - Make sure the managers know who wrote
+  the report, when, and what version of the report they are looking at. (As
+  things often get updated.)
+* Executive summary paragraph - Write this last. Give a quick one-paragraph
+  summary of what you came up with.
+* What is Node.js?
+* What does Node.js do?
+* History of Node.js. Who wrote it, how long has it been around, etc.
+* Opportunities for using Node.js. What could the company use Node.js for?
+* Risks in using Node.js. Is it too new? Outdated? Subject to change? No
+  vendor to stand behind it?
+* Performance considerations with Node.js? Does it run fast? Does it take
+  a long time to download?
+* Scalability of using Node.js. If we have 1,000 people on our web server,
+  will this help or hurt us?
+* What support is out their for Node.js? If something goes wrong, who will
+  we get support from?
+* Popularity: Can we find Node.js programmers? Is it a fad? Is it getting old
+  and out of date?
+* Your conclusions on Node.js.
+* References (Where did you get your info? Back it your information with
+  citations from reputable publications.)
 
-Zip up the files and upload,
-or link to the proof of concept on GitHub_, JSBin_, or Gist_.
+References
+^^^^^^^^^^
+When listing references, don't just list URLs. You can hyper-link the title
+to the URL. Here is an example of what I'm looking for:
 
-Next week you will create your own tutorial stepping through how to create
-an AngularJS application.
+* GManNickG. `Why is it faster to process a sorted array than an unsorted array? <http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>`_ Stack Overflow, Jun 27 2012. Retrieved Jan 16, 2017.
 
-.. _AngularJS: https://angularjs.org/
-.. _Gist: https://gist.github.com/
-.. _GitHub: https://github.com/
-.. _JSBin: https://jsbin.com/?html,output
+Double-Check
+^^^^^^^^^^^^
+
+When you are done, check the following:
+
+* Make sure that you use paragraphs. No one will read long walls of text.
+  Follow the PIE_ methodology for paragraphs.
+* Bullet lists, numbered lists, these are ok to use. Write for a technical
+  manager that wants to be able to skim the report.
+
+Note that in two weeks you'll write a different report. The next report will not
+be to your managers, but to other programmers.
+
+.. _Node.js: https://Node.js.org/
+.. _PIE: https://awc.ashford.edu/essay-dev-pie-paragraph.html

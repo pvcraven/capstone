@@ -1,71 +1,20 @@
-Assignment 4 - Node.js Report to Management
-=============================================
+Assignment 4 - Node.js Tutorial/Technical Report
+================================================
 
 Goal
 ----
 
-Ok, time to take what you learned from the last three assignments and practice
-it with one more technology.
+In assignment 4, we had you writing at a high-level to your technical managers.
+Now the goal is to write a lower level explanation to your fellow programmers.
 
-This assignment is designed to test your ability to go out and do research
-new technologies. By itself, this isn't useful unless you can communicate
-those findings to management. With Assignment 1 you need to do both.
 
 Details
 -------
 
-Your bosses at Fine Iowa Car Loans (FICL)
-have heard a lot about this new "node.js". But your
-company doesn't yet have anything to do with it. Should they?
-It is your job to find out.
+Take the proof-of-concept that you created, and make a tutorial based off it.
 
-Write a report to your technology managers on Node.js. The report should
-provide a factual, balanced view of the technology.
+* Use the "Snip" tool, the Alt-Print-screen combination, or some other tool to
+  make screen shots.
+* During the tutorial, explain concepts like REPL, callbacks, event loop, etc.
 
-Include the following in your report:
 
-* Report title, date, version, author - Make sure the managers know who wrote
-  the report, when, and what version of the report they are looking at. (As
-  things often get updated.)
-* Executive summary paragraph - Write this last. Give a quick one-paragraph
-  summary of what you came up with.
-* What is Node.js?
-* What does Node.js do?
-* History of Node.js. Who wrote it, how long has it been around, etc.
-* Opportunities for using Node.js. What could the company use Node.js for?
-* Risks in using Node.js. Is it too new? Outdated? Subject to change? No
-  vendor to stand behind it?
-* Performance considerations with Node.js? Does it run fast? Does it take
-  a long time to download?
-* Scalability of using Node.js. If we have 1,000 people on our web server,
-  will this help or hurt us?
-* What support is out their for Node.js? If something goes wrong, who will
-  we get support from?
-* Popularity: Can we find Node.js programmers? Is it a fad? Is it getting old
-  and out of date?
-* Your conclusions on Node.js.
-* References (Where did you get your info? Back it your information with
-  citations from reputable publications.)
-
-References
-^^^^^^^^^^
-When listing references, don't just list URLs. You can hyper-link the title
-to the URL. Here is an example of what I'm looking for:
-
-* GManNickG. `Why is it faster to process a sorted array than an unsorted array? <http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>`_ Stack Overflow, Jun 27 2012. Retrieved Jan 16, 2017.
-
-Double-Check
-^^^^^^^^^^^^
-
-When you are done, check the following:
-
-* Make sure that you use paragraphs. No one will read long walls of text.
-  Follow the PIE_ methodology for paragraphs.
-* Bullet lists, numbered lists, these are ok to use. Write for a technical
-  manager that wants to be able to skim the report.
-
-Note that in two weeks you'll write a different report. The next report will not
-be to your managers, but to other programmers.
-
-.. _Node.js: https://Node.js.org/
-.. _PIE: https://awc.ashford.edu/essay-dev-pie-paragraph.html

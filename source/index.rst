@@ -11,14 +11,15 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   assignments/assignment_01.rst
+   assignments/assignment_01/assignment_01.rst
    assignments/assignment_02.rst
    assignments/assignment_03.rst
    assignments/assignment_04.rst
    assignments/assignment_05.rst
    assignments/assignment_06.rst
-   assignments/assignment_07/assignment_07.rst
+   assignments/assignment_07.rst
    assignments/assignment_08/assignment_08.rst
-   assignments/assignment_09.rst
+   assignments/assignment_09/assignment_09.rst
    assignments/assignment_10.rst
+   assignments/assignment_11.rst
 

@@ -1,32 +1,42 @@
-Assignment 8 - Data Structures 2
+Assignment 8 - Data Structures 1
 ================================
 
-Setup
------
+Assignment
+----------
 
-Download the zip file and expand out Test05.java, dictionary.txt, and dracula.txt.
+For each program below:
 
-Experiments
------------
+* Explain what the program does
+* Explain the results of the program
+* Try to explain why the results are what they are. If you don't know for
+  certain, create a hypothesis.
+* This has a lot to do with data structures. Make sure your explanation does
+  dive into the particulars of the data structures and what is happening. Don't
+  give a "surface" explanation, make sure you understand. Ask me questions if
+  needed or check to make sure your are in the right ballpark. This assignment
+  is the easiest to get a bad grade on if you don't check to make sure.
 
-Run the Java program with the following data types:
 
-* HashSet
-* LinkedList
-* TreeSet
-* ArrayList
-* Stack
+Part 1
+------
 
-Results
--------
+.. literalinclude:: Test01.java
+    :caption: Test01.java
+    :language: java
+    :linenos:
 
-Present and explain the following:
+Part 2
+------
 
-* What does the program do?
-* Why does the program read the whole story into memory before spell-checking?
-* What are the timings of the different data structures?
-* Why are those data structures timed the way they are? Make sure you go back
-  to your data structures days, and explain how the data structure is impacting
-  the performance. Show you understand how the data structures work.
-* What is the difference between a Set and a Map?
+.. literalinclude:: Test02.java
+    :caption: Test02.java
+    :language: java
+    :linenos:
 
+Part 3
+------
+
+.. literalinclude:: Test03.java
+    :caption: Test03.java
+    :language: java
+    :linenos:
