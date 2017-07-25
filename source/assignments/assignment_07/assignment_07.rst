@@ -23,7 +23,7 @@ Part 2
 ------
 
 .. literalinclude:: Test02.java
-    :caption: Test01.java
+    :caption: Test02.java
     :language: java
     :linenos:
 
@@ -31,14 +31,6 @@ Part 3
 ------
 
 .. literalinclude:: Test03.java
-    :caption: Test01.java
-    :language: java
-    :linenos:
-
-Part 4
-------
-
-.. literalinclude:: Test04.java
-    :caption: Test01.java
+    :caption: Test03.java
     :language: java
     :linenos:

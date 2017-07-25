@@ -9,6 +9,8 @@ public class Test02 {
         LinkedList<Integer> list = new LinkedList<Integer>();
 
         for(int i=0; i < n; i++) {
+            // Note, this command is different than the one in
+            // the prior example!
             list.add(0);
         }
     }

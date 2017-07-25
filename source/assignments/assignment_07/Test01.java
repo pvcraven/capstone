@@ -7,6 +7,7 @@ public class Test01 {
         LinkedList<Integer> list = new LinkedList<Integer>();
 
         for(int i=0; i < n; i++) {
+            // Look up the documentation for the following command
             list.add(0, 0);
         }
     }
