@@ -4,7 +4,7 @@ Assignment 9 - Data Structures 2
 Setup
 -----
 
-Download the zip file and expand out Test05.java, dictionary.txt, and dracula.txt.
+Download the zip file :download:`Data Structures.zip` and expand out Test05.java, dictionary.txt, and dracula.txt.
 
 Experiments
 -----------
