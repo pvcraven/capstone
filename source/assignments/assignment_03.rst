@@ -16,7 +16,7 @@ Iowa Car Loans company. Show how to get something useful working for our
 car loan company. Like a simple website for ICL, or a calculator for
 loan payments, or something similar.
 
-There are tutorials out there you can find. `TutorialsPoint Node.js`_ tutorial is
+There are tutorials out there you can find. `TutorialsPoint Node.js`_ tutorial and TutorialKart `Node.js tutorial`_ are
 good.
 
 For this tutorial, you may copy/paste material from the web. **However**
@@ -35,3 +35,4 @@ a Node.js application.
 .. _Gist: https://gist.github.com/
 .. _GitHub: https://github.com/
 .. _TutorialsPoint Node.js: https://www.tutorialspoint.com/nodejs/
+.. _Node.js tutorial: https://www.tutorialkart.com/nodejs/nodejs-tutorial/
